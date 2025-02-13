@@ -1,7 +1,6 @@
-<div class="text-center bg-opacity-70 bg-black p-6 rounded-lg shadow-lg max-w-full w-full sm:w-3/4 md:w-2/3 lg:w-1/2">
+
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNlM3N3OGFteDV0YXh6a2JrbDJnbnBjdzdvNmlqMzBrc294aXUzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pt885kr3YnYMox4PeV/giphy.gif" alt="Cyberpunk Coder GIF" class="w-full h-auto rounded-lg border-4 border-white">
-    <h1 class="text-white text-3xl font-semibold mt-4">Welcome to My Professional Profile</h1>
-  </div>
+ 
   <!-- Profile Introduction -->
   <h1 align='center'>Hi 👋, I'm Sudeep Lamichhane</h1>
   <h3 align='center'>⚡ Cyberpunk Coder | Full-Stack Sorcerer | Debugging Ninja</h3>
