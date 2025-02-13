@@ -6,52 +6,67 @@
 
 ---
 
-## 🚀 About Me
-- 👨‍💻 Full-Stack Developer specializing in **Laravel, PHP & Tailwind CSS**
-- 🌍 Passionate about **web development** & **scalable applications**
-- 🚀 Always learning & exploring new technologies
+## 🚀 About Me  
+🔹 **Full-Stack Developer** | **Laravel | PHP | Tailwind CSS**  
+🔹 Passionate about **Scalable Web Apps & Elegant UIs**  
+🔹 Exploring **AI, Cloud & Open Source Contributions**  
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&count_private=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true" height="180"/>
 </p>
 
+### 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub" />
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,tailwind,js,vue,mysql,git,github" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-## 📌 Contribution Graph & GitHub Skyline
+## 🚀 Latest Activity & Contribution Graph
 
+### **📌 Contribution Activity**
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=your-username&theme=github" />
+</p>
+
+### **⏳ Coding Activity**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=10&theme=radical" height="180"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,tailwind,js,vue,mysql,git,github,bootstrap,figma,linux,docker,python" />
+</p>
+
+---
+
+## 🌍 GitHub Skyline & Metrics  
 <p align="center">
   <img src="https://github.com/your-username/your-username/blob/main/github-metrics.svg" />
 </p>
 
-📌 **See your 3D GitHub Skyline** 👉 [GitHub Skyline](https://skyline.github.com/your-username/2024)  
+📌 **View 3D GitHub Skyline** 👉 [GitHub Skyline](https://skyline.github.com/your-username/2024)  
 
 ---
 
-## 🎵 Music Recommendation (Like Your Example Image)
-
-[![Spotify](https://novatorem-your-username.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
+## 🎵 Music Recommendation (Live Spotify Status)  
+[![Spotify](https://novatorem-your-username.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)  
 
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/your-profile)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"></a>
+</p>
 
 ---
