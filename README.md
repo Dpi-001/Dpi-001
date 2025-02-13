@@ -19,10 +19,10 @@
 
 ### 🛠 **Tech Arsenal:**
 ```yaml
-🔥 Programming: Laravel, JavaScript, Vue, React, GSAP
-🛠 Frameworks: TailwindCSS, Node.js, Express
-🖥 DevOps: Docker, Linux, Git
-🔒 CyberSec: Ethical Hacking (for good, obviously!)
+🔥 Programming: Laravel, JavaScript, Vue, React
+🛠 Frameworks: TailwindCSS, Node.js
+🖥 DevOps: Linux, Git
+🔒 CyberSec: 
 ``` 
 
 ---
@@ -46,7 +46,6 @@
 ### 💬 **Ask Me About:**
 ```yaml
 ⚡ JavaScript Tricks
-🎭 GSAP Animations
 🚀 Performance Optimization
 ```
 
@@ -69,7 +68,7 @@
 
 ---
 
-### 🖥 **Hacker Mode Stats:**
+### 🖥 **Stats:**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpi-001&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </p>
