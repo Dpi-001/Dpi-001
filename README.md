@@ -3,7 +3,7 @@
   <h1 align='center'>Hi 👋, I'm Sudeep Lamichhane</h1>
   <h3 align='center'>⚡ Cyberpunk Coder | Full-Stack Sorcerer | Debugging Ninja</h3>
   <hr>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNlM3N3OGFteDV0YXh6a2JrbDJnbnBjdzdvNmlqMzBrc294aXUzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pt885kr3YnYMox4PeV/giphy.gif" alt="Cyberpunk Coder GIF" style="display: block; margin: 0 auto; width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNlM3N3OGFteDV0YXh6a2JrbDJnbnBjdzdvNmlqMzBrc294aXUzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pt885kr3YnYMox4PeV/giphy.gif" alt="Cyberpunk Coder GIF" style="display: block; margin: 0 auto; height: 150px; object-fit: cover; border-radius: 50%;">
 
 
 
