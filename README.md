@@ -1,5 +1,4 @@
 
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNlM3N3OGFteDV0YXh6a2JrbDJnbnBjdzdvNmlqMzBrc294aXUzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pt885kr3YnYMox4PeV/giphy.gif" alt="Cyberpunk Coder GIF" class="w-full h-auto rounded-lg border-4 border-white">
  
   <!-- Profile Introduction -->
   <h1 align='center'>Hi 👋, I'm Sudeep Lamichhane</h1>
@@ -41,8 +40,6 @@
   <h3>📫 **How to Reach Me:**</h3>
   <pre>
   📩 Email: lsud_bca2079@lict.edu.np
-  🌐 Portfolio: [Your Portfolio Link Here]
-  📝 Blog: [Your Blog Link Here]
   </pre>
 
   <h3>⚡ **Fun Fact:**</h3>
@@ -56,7 +53,7 @@
   <!-- GitHub Stats -->
   <h3 align="center">📊 **GitHub Stats**</h3>
   <div class="stats" align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpi-001&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpi-001&theme=gruvbox&hide_border=true" alt="GitHub" />
     <img src="https://github-readme-stats.vercel.app/api?username=dpi-001&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dpi-001&show_icons=true&theme=gruvbox&layout=compact&hide_border=true" alt="Top Languages" />
   </div>
@@ -74,6 +71,8 @@
       <img src="https://github-profile-trophy.vercel.app/?username=dpi-001&theme=darkhub" alt="Trophies" />
     </a>
   </p>
+  <hr>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNlM3N3OGFteDV0YXh6a2JrbDJnbnBjdzdvNmlqMzBrc294aXUzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pt885kr3YnYMox4PeV/giphy.gif" algin='center' alt="Cyberpunk Coder GIF">
 
   <hr>
 
