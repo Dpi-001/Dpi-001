@@ -3,23 +3,121 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Falling Binary Animation & Sudeep's Profile</title>
-  <link rel="stylesheet" href="styles.css">
+  <title></title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body, html {
+      height: 100%;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: black;
+      overflow: hidden;
+    }
+
+    .falling-pattern {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      font-family: monospace;
+      color: lime;
+      font-size: 24px;
+      white-space: nowrap;
+      pointer-events: none;
+    }
+
+    .line {
+      position: absolute;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      animation: fall 6s infinite linear;
+    }
+
+    .line:nth-child(1) {
+      animation-delay: 0s;
+    }
+
+    .line:nth-child(2) {
+      animation-delay: 1s;
+    }
+
+    .line:nth-child(3) {
+      animation-delay: 2s;
+    }
+
+    .line:nth-child(4) {
+      animation-delay: 3s;
+    }
+
+    .line:nth-child(5) {
+      animation-delay: 4s;
+    }
+
+    .line:nth-child(6) {
+      animation-delay: 5s;
+    }
+
+    @keyframes fall {
+      0% {
+        top: -100px;
+      }
+      100% {
+        top: 100%;
+      }
+    }
+
+    @keyframes drop {
+      0% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0.5;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+
+    .line span {
+      display: inline-block;
+      animation: drop 3s linear infinite;
+    }
+
+    h1, h3 {
+      color: white;
+      text-align: center;
+    }
+  </style>
 </head>
 <body>
   <!-- Falling Binary Animation -->
   <div class="falling-pattern">
-    <div class="line">1 0 1 0 1 1 0 1 1 1</div>
-    <div class="line">1 1 0 1 0 1 1 1 0 1</div>
-    <div class="line">1 0 0 1 1 0 1 1 0 1</div>
-    <div class="line">0 1 1 1 1 0 1 1 1 0</div>
-    <div class="line">1 0 0 1 0 1 0 1 1 0</div>
-    <div class="line">1 1 0 1 1 1 0 1 0 1</div>
+    <div class="line">
+      <span>1 0 1 0 1 1 0 1 1 1</span>
+      <span>1 1 0 1 0 1 1 1 0 1</span>
+      <span>1 0 0 1 1 0 1 1 0 1</span>
+    </div>
+    <div class="line">
+      <span>0 1 1 1 1 0 1 1 1 0</span>
+      <span>1 0 0 1 0 1 0 1 1 0</span>
+      <span>1 1 0 1 1 1 0 1 0 1</span>
+    </div>
   </div>
 
   <!-- Profile Introduction -->
-  <h1 align="center">Hi 👋, I'm Sudeep Lamichhane</h1>
-  <h3 align="center">⚡ Cyberpunk Coder | Full-Stack Sorcerer | Debugging Ninja</h3>
+  <h1>Hi 👋, I'm Sudeep Lamichhane</h1>
+  <h3>⚡ Cyberpunk Coder | Full-Stack Sorcerer | Debugging Ninja</h3>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=dpi-001&label=Profile%20views&color=green&style=flat" alt="dpi-001" />
@@ -101,6 +199,5 @@
   <pre align="center">
     "Code, Debug, Repeat. Sleep is for the weak."
   </pre>
-
 </body>
 </html>
