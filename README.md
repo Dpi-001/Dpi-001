@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdj-sky&psig=AOvVaw1Oe2oBbbXtoOv8PxexVUYP&ust=1739549959874000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjhqrOIwYsDFQAAAAAdAAAAABBv" alt="Cyberpunk Coder GIF">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNlM3N3OGFteDV0YXh6a2JrbDJnbnBjdzdvNmlqMzBrc294aXUzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pt885kr3YnYMox4PeV/giphy.gif" alt="Cyberpunk Coder GIF">
 
 
   <!-- Profile Introduction -->
