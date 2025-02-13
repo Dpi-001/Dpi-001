@@ -3,13 +3,13 @@
   <h1 align='center'>Hi 👋, I'm Sudeep Lamichhane</h1>
   <h3 align='center'>⚡ Cyberpunk Coder | Full-Stack Sorcerer | Debugging Ninja</h3>
   <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; left: 10">
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNlM3N3OGFteDV0YXh6a2JrbDJnbnBjdzdvNmlqMzBrc294aXUzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pt885kr3YnYMox4PeV/giphy.gif" alt="Cyberpunk Coder GIF" style="height: 150px; object-fit: cover; border-radius: 50%;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNlM3N3OGFteDV0YXh6a2JrbDJnbnBjdzdvNmlqMzBrc294aXUzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pt885kr3YnYMox4PeV/giphy.gif" alt="Cyberpunk Coder GIF" style="height: 150px; object-fit: cover; border-radius: 50%;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNlM3N3OGFteDV0YXh6a2JrbDJnbnBjdzdvNmlqMzBrc294aXUzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pt885kr3YnYMox4PeV/giphy.gif" alt="Cyberpunk Coder GIF" style="height: 150px; object-fit: cover; border-radius: 50%;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNlM3N3OGFteDV0YXh6a2JrbDJnbnBjdzdvNmlqMzBrc294aXUzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pt885kr3YnYMox4PeV/giphy.gif" alt="Cyberpunk Coder GIF" style="height: 150px; object-fit: cover; border-radius: 50%;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNlM3N3OGFteDV0YXh6a2JrbDJnbnBjdzdvNmlqMzBrc294aXUzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pt885kr3YnYMox4PeV/giphy.gif" alt="Cyberpunk Coder GIF" style="height: 150px; object-fit: cover; border-radius: 50%;">
 </div>
+
 
 
 
