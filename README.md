@@ -1,53 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title></title>
-  <link rel="stylesheet" href="styles.css">
-  <style>
-    /* Style for the GIF background */
-    .gif-container {
-      width: 100%;
-      height: 100vh;
-      background-image: url('https://media.giphy.com/media/1kX5z9ZlZY5Ty/giphy.gif');
-      background-size: cover;
-      background-position: center;
-      position: fixed;
-      top: 0;
-      left: 0;
-      z-index: -1;
-    }
-    /* Ensuring content appears above the GIF */
-    body {
-      position: relative;
-      padding: 2rem;
-      font-family: Arial, sans-serif;
-      color: white;
-    }
-    h1, h3 {
-      text-align: center;
-      color: #fff;
-    }
-    pre {
-      color: #f1f1f1;
-    }
-    hr {
-      border-color: #fff;
-    }
-    .stats img {
-      margin: 10px;
-    }
-    .tools img {
-      display: flex;
-      justify-content: center;
-      margin-top: 20px;
-    }
-  </style>
-</head>
-<body>
-  <!-- GIF background -->
-  <div class="gif-container"></div>
+
 
   <!-- Profile Introduction -->
   <h1>Hi 👋, I'm Sudeep Lamichhane</h1>
@@ -130,5 +81,3 @@
     "Code, Debug, Repeat. Sleep is for the weak."
   </pre>
 
-</body>
-</html>
