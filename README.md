@@ -3,6 +3,11 @@
   <!-- Profile Introduction -->
   <h1 align='center'>Hi 👋, I'm Sudeep Lamichhane</h1>
   <h3 align='center'>⚡ Cyberpunk Coder | Full-Stack Sorcerer | Debugging Ninja</h3>
+  <hr>
+
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNlM3N3OGFteDV0YXh6a2JrbDJnbnBjdzdvNmlqMzBrc294aXUzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pt885kr3YnYMox4PeV/giphy.gif" algin='center' alt="Cyberpunk Coder GIF">
+
+   
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=dpi-001&label=Profile%20views&color=green&style=flat" alt="dpi-001" />
@@ -71,8 +76,6 @@
       <img src="https://github-profile-trophy.vercel.app/?username=dpi-001&theme=darkhub" alt="Trophies" />
     </a>
   </p>
-  <hr>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNlM3N3OGFteDV0YXh6a2JrbDJnbnBjdzdvNmlqMzBrc294aXUzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pt885kr3YnYMox4PeV/giphy.gif" algin='center' alt="Cyberpunk Coder GIF">
 
   <hr>
 
