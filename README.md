@@ -1,4 +1,14 @@
- <div class="falling-pattern">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Falling Binary Animation & Sudeep's Profile</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Falling Binary Animation -->
+  <div class="falling-pattern">
     <div class="line">1 0 1 0 1 1 0 1 1 1</div>
     <div class="line">1 1 0 1 0 1 1 1 0 1</div>
     <div class="line">1 0 0 1 1 0 1 1 0 1</div>
@@ -7,179 +17,90 @@
     <div class="line">1 1 0 1 1 1 0 1 0 1</div>
   </div>
 
+  <!-- Profile Introduction -->
+  <h1 align="center">Hi 👋, I'm Sudeep Lamichhane</h1>
+  <h3 align="center">⚡ Cyberpunk Coder | Full-Stack Sorcerer | Debugging Ninja</h3>
 
-  * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dpi-001&label=Profile%20views&color=green&style=flat" alt="dpi-001" />
+  </p>
 
-body, html {
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: black;
-}
+  <hr>
 
-.falling-pattern {
-  position: relative;
-  font-family: monospace;
-  color: lime;
-  font-size: 24px;
-  white-space: nowrap;
-  overflow: hidden;
-}
+  <h3>🛠 **Tech Arsenal:**</h3>
+  <pre>
+  🔥 Programming: Laravel, JavaScript, Vue, React
+  🛠 Frameworks: TailwindCSS, Node.js
+  🖥 DevOps: Linux, Git
+  </pre>
 
-.line {
-  position: absolute;
-  display: flex;
-  justify-content: space-evenly;
-  animation: fall 6s infinite;
-}
+  <h3>🚀 **Currently Exploring:**</h3>
+  <ul>
+    <li>**Building the Future of E-Commerce:** `BarterLink` 🏪</li>
+    <li>**Mastering the Art of Laravel & Vue.js** 🔥</li>
+    <li>**Diving Deep into Secure Web Apps** 🔐</li>
+  </ul>
 
-.line:nth-child(1) {
-  animation-delay: 0s;
-}
+  <h3>🤝 **Looking to Collaborate On:**</h3>
+  <pre>
+  🛒 Scalable E-Commerce Solutions
+  📈 Data-Driven Web Applications
+  🎨 Creative UI/UX Projects
+  </pre>
 
-.line:nth-child(2) {
-  animation-delay: 1s;
-}
+  <h3>💬 **Ask Me About:**</h3>
+  <pre>
+  ⚡ JavaScript Tricks
+  🚀 Performance Optimization
+  </pre>
 
-.line:nth-child(3) {
-  animation-delay: 2s;
-}
+  <h3>📫 **How to Reach Me:**</h3>
+  <pre>
+  📩 Email: lsud_bca2079@lict.edu.np
+  🌐 Portfolio: [Your Portfolio Link Here]
+  📝 Blog: [Your Blog Link Here]
+  </pre>
 
-.line:nth-child(4) {
-  animation-delay: 3s;
-}
+  <h3>⚡ **Fun Fact:**</h3>
+  <pre>
+  😆 I commit more to GitHub than I do to my New Year’s resolutions!
+  🔧 My debugging process: 50% coding | 50% Googling errors.
+  </pre>
 
-.line:nth-child(5) {
-  animation-delay: 4s;
-}
+  <hr>
 
-.line:nth-child(6) {
-  animation-delay: 5s;
-}
+  <!-- GitHub Stats -->
+  <h3 align="center">📊 **GitHub Stats**</h3>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpi-001&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dpi-001&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dpi-001&show_icons=true&theme=gruvbox&layout=compact&hide_border=true" alt="Top Languages" />
+  </p>
 
-@keyframes fall {
-  0% {
-    top: -50px;
-  }
-  100% {
-    top: 100vh;
-  }
-}
+  <hr>
 
-.line span {
-  animation: drop 3s linear infinite;
-}
+  <h3 align="center">🖥 **Tools & Tech Stack:**</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,laravel,vue,react,nodejs,tailwind,git,github,php,mysql,linux" />
+  </p>
 
-@keyframes drop {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0.5;
-  }
-  100% {
-    opacity: 1;
-  }
-}
+  <h3 align="center">🏆 **Achievements & Contributions:**</h3>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=dpi-001&theme=darkhub" alt="Trophies" />
+    </a>
+  </p>
 
+  <hr>
 
-<h1 align="center">Hi 👋, I'm Sudeep Lamichhane</h1>
-<h3 align="center">⚡ Cyberpunk Coder | Full-Stack Sorcerer | Debugging Ninja</h3>
+  <h3 align="center">🔥 **Keep the Hustle Alive!**</h3>
+  <pre align="center">
+    "Code, Debug, Repeat. Sleep is for the weak."
+  </pre>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dpi-001&label=Profile%20views&color=green&style=flat" alt="dpi-001" />
-</p>
-
----
-
-### 🛠 **Tech Arsenal:**
-```yaml
-🔥 Programming: Laravel, JavaScript, Vue, React
-🛠 Frameworks: TailwindCSS, Node.js
-🖥 DevOps: Linux, Git
-``` 
-
----
-
-### 🚀 **Currently Exploring:**
-- **Building the Future of E-Commerce:** `BarterLink` 🏪
-- **Mastering the Art of Laravel & Vue.js** 🔥
-- **Diving Deep into Secure Web Apps** 🔐
-
----
-
-### 🤝 **Looking to Collaborate On:**
-```yaml
-🛒 Scalable E-Commerce Solutions
-📈 Data-Driven Web Applications
-🎨 Creative UI/UX Projects
-```
-
----
-
-### 💬 **Ask Me About:**
-```yaml
-⚡ JavaScript Tricks
-🚀 Performance Optimization
-```
-
----
-
-### 📫 **How to Reach Me:**
-```yaml
-📩 Email: lsud_bca2079@lict.edu.np
-🌐 Portfolio: [Your Portfolio Link Here]
-📝 Blog: [Your Blog Link Here]
-```
-
----
-
-### ⚡ **Fun Fact:**
-```yaml
-😆 I commit more to GitHub than I do to my New Year’s resolutions!
-🔧 My debugging process: 50% coding | 50% Googling errors.
-```
-
----
-
-### 🖥 **Stats:**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpi-001&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dpi-001&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dpi-001&show_icons=true&theme=gruvbox&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 💻 **Tools & Tech Stack:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,vue,react,nodejs,tailwind,git,github,php,mysql,linux" />
-</p>
-
----
-
-### 🏆 **Achievements & Contributions:**
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dpi-001&theme=darkhub" alt="Trophies" />
-  </a>
-</p>
-
----
-
-### 🔥 **Keep the Hustle Alive!**
-```yaml
-"Code, Debug, Repeat. Sleep is for the weak."
+</body>
+</html>
