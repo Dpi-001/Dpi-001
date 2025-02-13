@@ -66,7 +66,7 @@
   <!-- GitHub Stats -->
   <h3 align="center">📊 **GitHub Stats**</h3>
   <div class="stats" align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpi-001&theme=gruvbox&hide_border=true" alt="GitHub" />
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpi-001&theme=gruvbox&hide_border=true" alt="GitHub" /> -->
     <img src="https://github-readme-stats.vercel.app/api?username=dpi-001&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dpi-001&show_icons=true&theme=gruvbox&layout=compact&hide_border=true" alt="Top Languages" />
   </div>
