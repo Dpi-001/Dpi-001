@@ -1,37 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sudeep_Lmc</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #1e1e1e;
-            color: white;
-            margin: 0;
-        }
-        h1, h3 {
-            font-size: 36px;
-        }
-        h3 {
-            font-size: 24px;
-            margin-bottom: 40px;
-        }
-        .content {
-            margin-top: 40px;
-        }
-        .content p {
-            font-size: 18px;
-            margin-bottom: 15px;
-        }
-        .tech-stack img {
-            margin: 10px;
-        }
-    </style>
-</head>
-<body>
+
 
     <h1>Hi 👋, I'm Sudeep_Lmc</h1>
     <h3>⚡ Cyberpunk Coder | Full-Stack Sorcerer | Debugging Ninja</h3>
@@ -94,7 +61,4 @@
         <pre>
 "Code, Debug, Repeat. Sleep is for the weak."
         </pre>
-    </div>
-    
-</body>
-</html>
+</div>
