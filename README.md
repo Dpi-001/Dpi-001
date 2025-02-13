@@ -1,9 +1,91 @@
-██████╗ ███████╗██╗   ██╗██████╗ ███████╗██████╗ 
-██╔══██╗██╔════╝██║   ██║██╔══██╗██╔════╝██╔══██╗
-██████╔╝█████╗  ██║   ██║██████╔╝███████╗██████╔╝
-██╔═══╝ ██╔══╝  ██║   ██║██╔═══╝ ╚════██║██╔══██╗
-██║     ███████╗╚██████╔╝██║     ███████║██████╔╝
-╚═╝     ╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═════╝ 
+ <div class="falling-pattern">
+    <div class="line">1 0 1 0 1 1 0 1 1 1</div>
+    <div class="line">1 1 0 1 0 1 1 1 0 1</div>
+    <div class="line">1 0 0 1 1 0 1 1 0 1</div>
+    <div class="line">0 1 1 1 1 0 1 1 1 0</div>
+    <div class="line">1 0 0 1 0 1 0 1 1 0</div>
+    <div class="line">1 1 0 1 1 1 0 1 0 1</div>
+  </div>
+
+
+  * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.falling-pattern {
+  position: relative;
+  font-family: monospace;
+  color: lime;
+  font-size: 24px;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.line {
+  position: absolute;
+  display: flex;
+  justify-content: space-evenly;
+  animation: fall 6s infinite;
+}
+
+.line:nth-child(1) {
+  animation-delay: 0s;
+}
+
+.line:nth-child(2) {
+  animation-delay: 1s;
+}
+
+.line:nth-child(3) {
+  animation-delay: 2s;
+}
+
+.line:nth-child(4) {
+  animation-delay: 3s;
+}
+
+.line:nth-child(5) {
+  animation-delay: 4s;
+}
+
+.line:nth-child(6) {
+  animation-delay: 5s;
+}
+
+@keyframes fall {
+  0% {
+    top: -50px;
+  }
+  100% {
+    top: 100vh;
+  }
+}
+
+.line span {
+  animation: drop 3s linear infinite;
+}
+
+@keyframes drop {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
 
 
 <h1 align="center">Hi 👋, I'm Sudeep Lamichhane</h1>
@@ -22,7 +104,6 @@
 🔥 Programming: Laravel, JavaScript, Vue, React
 🛠 Frameworks: TailwindCSS, Node.js
 🖥 DevOps: Linux, Git
-🔒 CyberSec: 
 ``` 
 
 ---
