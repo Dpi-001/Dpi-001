@@ -1,8 +1,8 @@
 
 
   <!-- Profile Introduction -->
-  <h1>Hi 👋, I'm Sudeep Lamichhane</h1>
-  <h3>⚡ Cyberpunk Coder | Full-Stack Sorcerer | Debugging Ninja</h3>
+  <h1 align='center'>Hi 👋, I'm Sudeep Lamichhane</h1>
+  <h3 align='center'>⚡ Cyberpunk Coder | Full-Stack Sorcerer | Debugging Ninja</h3>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=dpi-001&label=Profile%20views&color=green&style=flat" alt="dpi-001" />
