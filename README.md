@@ -11,7 +11,7 @@
 
 - 🎓 BCA Student @ Lumbini ICT Campus  
 - 🔭 Currently working on: **BarterLink – A Smart E-Commerce Exchange System**  
-- 🌱 Learning & mastering: **Laravel**, **Vue.js**, **Flutter**, **Cybersecurity Basics**  
+- 🌱 Learning & mastering: **Laravel**, **Vue.js**, **Flutter**
 - 💡 Passionate about building secure, scalable, and creative web solutions  
 - ✨ Motto: _"Code with purpose, build with passion."_
 
