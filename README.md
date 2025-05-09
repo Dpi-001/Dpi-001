@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Sudeep Lamichhane</h1>
-<h3 align="center">Full-Stack Developer | Laravel Enthusiast | UI/UX Explorer</h3>
+<h3 align="center"> Developer | Laravel Enthusiast | UI/UX Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dpi-001&label=Profile%20views&color=0e75b6&style=flat" alt="dpi-001" />
