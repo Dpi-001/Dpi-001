@@ -11,7 +11,7 @@
 
 - 🎓 BCA Student @ Lumbini ICT Campus  
 - 🔭 Currently working on: **BarterLink – A Smart E-Commerce Exchange System**  
-- 🌱 Learning & mastering: **Laravel**, **Vue.js**, **Cybersecurity Basics**  
+- 🌱 Learning & mastering: **Laravel**, **Vue.js**, **Flutter**, **Cybersecurity Basics**  
 - 💡 Passionate about building secure, scalable, and creative web solutions  
 - ✨ Motto: _"Code with purpose, build with passion."_
 
@@ -20,7 +20,7 @@
 ### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,react,nodejs,tailwind,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,react,nodejs,tailwind,mysql,git,github,linux,dart,flutter" />
 </div>
 
 ---
@@ -29,6 +29,7 @@
 
 - ✅ Advanced Laravel + Vue Integration  
 - ✅ UI/UX Design Systems  
+- ✅ Flutter & Dart for Cross-Platform Mobile Apps  
 - ✅ Backend Optimization & Secure APIs  
 - ✅ Collaborating on real-world full-stack projects  
 
@@ -39,6 +40,7 @@
 - 🛒 Scalable E-Commerce Platforms  
 - 📊 Data-Driven Dashboards  
 - 🎨 Sleek & Responsive Web Interfaces  
+- 📱 Mobile Apps using Flutter  
 
 ---
 
@@ -47,6 +49,7 @@
 - ⚡ JavaScript Tips & Laravel Tricks  
 - ⚙️ Performance Tuning in Web Apps  
 - 🔐 Web App Security Best Practices  
+- 📱 Flutter Development Basics  
 
 ---
 
