@@ -14,6 +14,7 @@
 - 🌱 Learning & mastering: **Laravel**, **Vue.js**, **Flutter**
 - 💡 Passionate about building secure, scalable, and creative web solutions  
 - ✨ Motto: _"Code with purpose, build with passion."_
+- 🌐 QCommit Extension: Developed to empower developers even more!
 
 ---
 
@@ -31,7 +32,7 @@
 - ✅ UI/UX Design Systems  
 - ✅ Flutter & Dart for Cross-Platform Mobile Apps  
 - ✅ Backend Optimization & Secure APIs  
-- ✅ Collaborating on real-world full-stack projects  
+- ✅ Collaborating on real-world full-stack projects
 
 ---
 
