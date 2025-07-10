@@ -1,5 +1,59 @@
-<h1 align="center">👋 Hello, I'm Sudeep Lamichhane</h1>
-<h3 align="center"> Developer | Laravel Enthusiast | UI/UX Explorer</h3>
+<div style="
+  position: absolute;
+  top: 30px;
+  width: 100%;
+  text-align: center;
+  z-index: 10;
+">
+  <h1 style="
+    display: inline-block;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    color: #00ff00;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: binaryFall 1.2s steps(40) forwards;
+    text-shadow: 0 0 5px #0f0, 0 0 10px #0f0;
+    background: transparent;
+    font-size: 28px;
+    margin: 0.5rem 0;
+  ">
+    👋 Hello, I'm Sudeep Lamichhane
+  </h1>
+  <h3 style="
+    display: inline-block;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    color: #00ff00;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: binaryFall 1.2s steps(40) forwards;
+    animation-delay: 0.8s;
+    text-shadow: 0 0 5px #0f0, 0 0 10px #0f0;
+    background: transparent;
+    font-size: 20px;
+    margin: 0.5rem 0;
+    animation-fill-mode: both;
+  ">
+    Developer | Laravel Enthusiast | UI/UX Explorer
+  </h3>
+</div>
+
+<style>
+@keyframes binaryFall {
+  0% {
+    opacity: 0;
+    transform: translateY(-100px) scaleY(2);
+    clip-path: inset(100% 0 0 0);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scaleY(1);
+    clip-path: inset(0 0 0 0);
+  }
+}
+</style>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dpi-001&label=Profile%20views&color=0e75b6&style=flat" alt="dpi-001" />
