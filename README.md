@@ -28,11 +28,11 @@
 
 ### 🚀 Current Focus
 
-- ✅ Advanced Laravel + Vue Integration  
-- ✅ UI/UX Design Systems  
-- ✅ Flutter & Dart for Cross-Platform Mobile Apps  
-- ✅ Backend Optimization & Secure APIs  
-- ✅ Collaborating on real-world full-stack projects
+-  Advanced Laravel + Vue Integration  
+-  UI/UX Design Systems  
+-  Flutter & Dart for Cross-Platform Mobile Apps  
+-  Backend Optimization & Secure APIs  
+-  Collaborating on real-world full-stack projects
 
 ---
 
