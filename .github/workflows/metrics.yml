@@ -23,7 +23,10 @@ jobs:
 
           # Layout → two columns
           config_display: columns
+
+          # Column order
           config_order: >
+            # Left column (base sections)
             base.header,
             base.activity,
             base.community,
@@ -31,6 +34,7 @@ jobs:
             base.metadata,
             habits
             =>
+            # Right column (additional plugins)
             isocalendar,
             languages
 
@@ -63,4 +67,3 @@ jobs:
             flutter: Flutter
             php: PHP (Laravel)
             tailwind: TailwindCSS
-
