@@ -41,14 +41,14 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # 🕒 Coding habits (left column)
+          # 🕒 Coding habits 
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_days: 14
           plugin_habits_from: 200
 
-          # 📊 Languages (right column)
+          # 📊 Languages 
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: lines, bytes-size, percentage
@@ -63,3 +63,4 @@ jobs:
             flutter: Flutter
             php: PHP (Laravel)
             tailwind: TailwindCSS
+
