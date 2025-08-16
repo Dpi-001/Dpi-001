@@ -29,7 +29,8 @@ jobs:
             base.community,
             base.repositories,
             base.metadata,
-            habits,
+            habits
+            =>
             isocalendar,
             languages
 
@@ -62,7 +63,7 @@ jobs:
             flutter: Flutter
             php: PHP (Laravel)
             tailwind: TailwindCSS
-          plugin_languages_skipped: false
+
 
 
 
