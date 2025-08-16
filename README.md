@@ -1,85 +1,41 @@
-<h1 align="center">👋 Hello, I'm Sudeep Lamichhane</h1>
-<h3 align="center"> Developer | Laravel Enthusiast | UI/UX Explorer</h3>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dpi-001&label=Profile%20views&color=0e75b6&style=flat" alt="dpi-001" />
-</p>
-
----
-
-### 💼 About Me
-
-- 🎓 BCA Student @ Lumbini ICT Campus  
-- 🔭 Currently working on: **BarterLink – A Smart E-Commerce Exchange System**  
-- 🌱 Learning & mastering: **Laravel**, **Vue.js**, **Flutter**
-- 💡 Passionate about building secure, scalable, and creative web solutions  
-- ✨ Motto: _"Code with purpose, build with passion."_
-- 🌐 QCommit Extension: Developed to empower developers even more!
-
----
-
-### 🛠 Tech Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,react,nodejs,tailwind,mysql,git,github,linux,dart,flutter" />
+<img src="https://placehold.co/400x150/0e75b6/FFFFFF?text=Developer+-+Sudeep+Lamichhane" alt="Sudeep Lamichhane" style="border-radius:12px;"/>
+<p align="center"><i>Building with purpose, learning with passion.</i></p>
 </div>
 
----
+About Me: The Journey
+I'm Sudeep, a BCA student at Lumbini ICT Campus with a passion for building secure and scalable web solutions. My journey began with an excitement for full-stack development, leading me to dive deep into Laravel and Vue.js. My current focus is on creating impactful projects that solve real-world problems, with a special interest in crafting beautiful and intuitive user interfaces.
 
-### 🚀 Current Focus
+Featured Project: BarterLink
+My main focus right now is BarterLink, a smart e-commerce exchange system I'm building from the ground up. This project is a hands-on exploration of advanced Laravel and Vue.js integration, showcasing how technology can foster a more sustainable and collaborative economy.
 
--  Advanced Laravel + Vue Integration  
--  UI/UX Design Systems  
--  Flutter & Dart for Cross-Platform Mobile Apps  
--  Backend Optimization & Secure APIs  
--  Collaborating on real-world full-stack projects
+Tech Stack: Laravel, Vue.js, Tailwind CSS
 
----
+Features: Secure APIs, streamlined exchange logic, responsive design.
 
-### 🤝 Collaboration Interests
+My Toolkit
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,react,nodejs,tailwind,mysql,git,github,linux,dart,flutter" />
+</div>
 
-- 🛒 Scalable E-Commerce Platforms  
-- 📊 Data-Driven Dashboards  
-- 🎨 Sleek & Responsive Web Interfaces  
-- 📱 Mobile Apps using Flutter  
+What's Next?
+I'm constantly learning and expanding my skills. My next steps include:
 
----
+Mastering Flutter & Dart for cross-platform mobile development.
 
-### 💬 Ask Me About
+Exploring advanced backend optimization and security practices.
 
-- ⚡ JavaScript Tips & Laravel Tricks  
-- ⚙️ Performance Tuning in Web Apps  
-- 🔐 Web App Security Best Practices  
-- 📱 Flutter Development Basics  
+Contributing to open-source projects.
 
----
+Let's Connect
+I'm always open to discussing new ideas, collaborating on interesting projects, or sharing knowledge on web development. Feel free to reach out!
 
-### 📫 Let's Connect
+📧 Email: lsud_bca2079@lict.edu.np
 
-- 📧 Email: **lsud_bca2079@lict.edu.np**  
-- 🌐 GitHub: [dpi-001](https://github.com/dpi-001)
+🌐 GitHub: dpi-001
 
----
-
-### 📊 GitHub Stats
-
+My GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dpi-001&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpi-001&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpi-001&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dpi-001&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dpi-001&theme=tokyonight&hide_border=true" height="150"/>
 </p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dpi-001&theme=gruvbox" />
-</p>
-
----
-
-### 🔥 Quote to Code By
-
-<p align="center"><i>"Code. Debug. Learn. Repeat."</i></p>
