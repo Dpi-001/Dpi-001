@@ -46,11 +46,7 @@ jobs:
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_colors: github
 
-          # 🌐 PageSpeed Insights
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://dpi-001.io
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
+        
 
 
 
