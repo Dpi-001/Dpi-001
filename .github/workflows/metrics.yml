@@ -2,7 +2,7 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
   workflow_dispatch:      # Allow manual trigger
 
 jobs:
@@ -25,14 +25,14 @@ jobs:
           config_twemoji: yes
           config_gemoji: yes
 
-          # 📅 Contribution calendar (3D style)
+          # 📅 Contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
           # 📊 Coding habits
           plugin_habits: yes
-          plugin_habits_from: 200  # number of events analyzed
-          plugin_habits_days: 14   # lookback period in days
+          plugin_habits_from: 200
+          plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
@@ -48,9 +48,10 @@ jobs:
 
           # 🌐 PageSpeed Insights
           plugin_pagespeed: yes
-          plugin_pagespeed_url: https://Dpi-001.io
+          plugin_pagespeed_url: https://dpi-001.io
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
+
 
 
 
