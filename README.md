@@ -25,7 +25,7 @@ I'm a full-stack developer and security enthusiast passionate about building sec
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpi-001&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/dpi-001)
+[![](https://github-readme-stats.vercel.app/api?username=dpi-001&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/dpi-001)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dpi-001&theme=tokyonight&hide_border=true)](https://github.com/dpi-001)
 
