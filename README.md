@@ -2,7 +2,8 @@
 
 I'm a full-stack developer and security enthusiast passionate about building secure, scalable, and purpose-driven web applications. I enjoy exploring how emerging technologies can solve real-world problems.
 
-### 🛠️ Tech Stack & Knowledge
+### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f988a14b-0f5f-4c75-803e-223f4ea0c6ea" />
+ Tech Stack & Knowledge
 * **Frontend:** HTML, CSS, JavaScript, Vue.js, Tailwind CSS
 * **Backend & Database:** PHP, Laravel, MySQL
 * **Blockchain:** Hyperledger Fabric
