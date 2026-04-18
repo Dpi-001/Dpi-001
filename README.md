@@ -8,16 +8,17 @@
 
 ---
 
-### <img src="assets/tech.svg" width="24" height="24" align="center" /> Tech Stack & Knowledge
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3c4Eq5SN_m7Oh1bb--DsKp-A3i9tYiy9tw&s" width="24" height="24" align="center" /> Tech Stack & Knowledge
 
 * **Frontend:** HTML, CSS, JavaScript, Vue.js, Tailwind CSS
 * **Backend & Database:** PHP, Laravel, MySQL
-* **Blockchain:** Hyperledger Fabric
+
 
 ### <img src="assets/learning.svg" width="24" height="24" align="center" /> Currently Learning
 
 * **Mobile Development:** Flutter
 * **DevOps & Containerization:** Docker
+* **Blockchain:** Hyperledger Fabric
 
 ---
 
