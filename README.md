@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/dpi-001.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Sudeep's Profile Picture" />
+  <img src="https://wsrv.nl/?url=github.com/dpi-001.png&w=150&h=150&fit=cover&mask=circle" alt="Sudeep's Profile Picture" />
   <h1>Hi there, I'm Sudeep! 👋</h1>
   <p><b>Full-Stack Developer | Security Enthusiast</b></p>
   <p>Building secure, scalable, and purpose-driven web applications while exploring how emerging technologies can solve real-world problems.</p>
@@ -7,12 +7,12 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:code-16.svg?color=%2358A6FF" width="24" height="24" align="center" />&nbsp;&nbsp;Tech Stack & Knowledge
+### <img src="https://api.iconify.design/octicon:code-16.svg?color=%2358A6FF" width="24" height="24" /> Tech Stack & Knowledge
 
 * **Frontend:** HTML, CSS, JavaScript, Vue.js, Tailwind CSS
 * **Backend & Database:** PHP, Laravel, MySQL
 
-### <img src="https://api.iconify.design/octicon:book-16.svg?color=%233FB950" width="24" height="24" align="center" />&nbsp;&nbsp;Currently Learning
+### <img src="https://api.iconify.design/octicon:book-16.svg?color=%233FB950" width="24" height="24" /> Currently Learning
 
 * **Mobile Development:** Flutter
 * **DevOps & Containerization:** Docker
@@ -20,19 +20,23 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:project-symlink-16.svg?color=%23D2A8FF" width="24" height="24" align="center" />&nbsp;&nbsp;Featured Projects
-
-**BarterLink** > A smart e-commerce exchange system focused on peer-to-peer product bartering to foster a more sustainable economy.
-* **Tech:** Laravel, Vue.js, Tailwind CSS
-* **Focus:** Secure APIs, streamlined exchange logic, and responsive design.
+### <img src="https://api.iconify.design/octicon:project-symlink-16.svg?color=%23D2A8FF" width="24" height="24" /> Featured Projects
 
 **SecureVote** > A transparent, digital voting platform designed to allow voters to cast ballots securely from home. 
 * **Tech:** Laravel, Hyperledger Fabric, MySQL
 * **Focus:** Core security implementations, multi-factor authentication, data encryption, and hashed credentials to ensure absolute ballot integrity.
 
+**BarterLink** > A smart e-commerce exchange system focused on peer-to-peer product bartering to foster a more sustainable economy.
+* **Tech:** Laravel, Vue.js, Tailwind CSS
+* **Focus:** Secure APIs, streamlined exchange logic, and responsive design.
+
+**QCommit** > A Visual Studio Code extension designed to streamline the Git commit workflow, making version control faster and more efficient for developers.
+* **Tech:** TypeScript, Node.js, VS Code Extension API
+* **Focus:** Developer productivity, seamless Git integration, and workflow automation.
+
 ---
 
-### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%23F0883E" width="24" height="24" align="center" />&nbsp;&nbsp;GitHub Stats
+### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%23F0883E" width="24" height="24" /> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dpi-001&show_icons=true&theme=tokyonight&hide_border=true" alt="Sudeep's GitHub Stats" />
@@ -42,9 +46,9 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:link-16.svg?color=%23F778BA" width="24" height="24" align="center" />&nbsp;&nbsp;Let's Connect
+### <img src="https://api.iconify.design/octicon:link-16.svg?color=%23F778BA" width="24" height="24" /> Let's Connect
 
-* **Email:** lsud_bca2079@lict.edu.np
+* **Email:** [lsud_bca2079@lict.edu.np](mailto:lsud_bca2079@lict.edu.np)
 * **GitHub:** [@dpi-001](https://github.com/dpi-001)
 
 <br>
