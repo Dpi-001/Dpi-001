@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="150" height="150" alt="Sudeep's Avatar" src="assets/image2.jpg" style="border-radius: 50%; object-fit: cover;" />
+  <img width="150" height="150" alt="Sudeep's Avatar" src="assets/image2.png" style="border-radius: 50%; object-fit: cover;" />
   
   <h1>Hi there, I'm Sudeep! 👋</h1>
   <p><b>Full-Stack Developer | Security Enthusiast</b></p>
