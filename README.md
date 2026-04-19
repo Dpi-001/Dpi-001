@@ -5,7 +5,7 @@
   <p>Building secure, scalable, and purpose-driven web applications while exploring how emerging technologies can solve real-world problems.</p>
 </div>
 
----
+----
 
 ### <img src="https://api.iconify.design/octicon:code-16.svg?color=%2358A6FF" width="24" height="24" /> Tech Stack & Knowledge
 
