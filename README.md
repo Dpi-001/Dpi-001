@@ -49,6 +49,7 @@
 ### <img src="https://api.iconify.design/octicon:link-16.svg?color=%23F778BA" width="24" height="24" /> Let's Connect
 
 * **Email:** [lsud_bca2079@lict.edu.np](mailto:lsud_bca2079@lict.edu.np)
+* **Email:** [sudip9845197918@gmail.com](mailto:sudip9845197918@gmail.com)
 * **GitHub:** [@dpi-001](https://github.com/dpi-001)
 
 <br>
